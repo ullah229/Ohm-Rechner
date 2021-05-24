@@ -1,0 +1,10 @@
+C:\Users\Ullah\source\repos\Ohm\Ohm\bin\Debug\Ohm.exe.config
+C:\Users\Ullah\source\repos\Ohm\Ohm\bin\Debug\Ohm.exe
+C:\Users\Ullah\source\repos\Ohm\Ohm\bin\Debug\Ohm.pdb
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.csprojAssemblyReference.cache
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.Form1.resources
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.Properties.Resources.resources
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.csproj.GenerateResource.cache
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.exe
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.pdb
+C:\Users\Ullah\source\repos\Ohm\Ohm\obj\Debug\Ohm.csproj.CoreCompileInputs.cache
